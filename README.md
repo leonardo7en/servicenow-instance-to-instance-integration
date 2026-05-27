@@ -47,10 +47,10 @@ One recursive loop caused the entire instance to become unstable, requiring debu
 ## Screenshots
 
 ### Incident synchronization between instances
-![Incident Sync](screenshots/incident-detail-sync.png)
+![Incident Sync](screenshots/incident-detail-sync.jpeg)
 
 ### Incident list overview
-![Incident List](screenshots/incident-list-sync.png)
+![Incident List](screenshots/incident-list-sync.jpeg)
 
 ### Integration application logs
 ![App Logs](screenshots/integration-app-log.png)
