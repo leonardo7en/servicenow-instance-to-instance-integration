@@ -44,3 +44,13 @@ One recursive loop caused the entire instance to become unstable, requiring debu
 - Business Rules
 - ITSM
 
+## Screenshots
+
+### Incident synchronization between instances
+![Incident Sync](screenshots/incident-detail-sync.png)
+
+### Incident list overview
+![Incident List](screenshots/incident-list-sync.png)
+
+### Integration application logs
+![App Logs](screenshots/integration-app-log.png)
